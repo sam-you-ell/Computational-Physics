@@ -1,5 +1,5 @@
 # Computational-Physics
-Collection of code for my 3rd year computational physics course.
+Collection of code for my 3rd year computational physics course. - Outdated
 
 [LinAlgEx1](https://github.com/hermiti-sam/Computational-Physics/blob/main/LinAlgEx1.ipynb)
 
